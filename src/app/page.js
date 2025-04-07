@@ -459,7 +459,7 @@ export default function Home() {
               </a>
               <a href="" target="_blank" rel="noopener noreferrer">
                 <img
-                  src="/images/lazada.png"
+                  src="/images/Lazada.png"
                   alt="Lazada"
                   className="h-11 md:h-11 hover:scale-110 transition-transform"
                 />
