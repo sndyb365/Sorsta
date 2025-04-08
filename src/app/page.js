@@ -201,7 +201,7 @@ export default function Home() {
           <div className="w-full h-48 relative rounded-lg overflow-hidden mb-4">
             <Image
               src={`/images/${idx === 0 ? "lidi" : "makaroni"}.jpg`}
-              alt={idx === 0 ? "Lidi" : "Makaroni"}
+              alt={idx === 0 ? "Spaghetti" : "Makaroni"}
               fill
               sizes="100vw"
               style={{ objectFit: "cover" }}
@@ -223,7 +223,7 @@ export default function Home() {
             onClick={() =>
               addToCart(
                 idx + 1,
-                idx === 0 ? "Lidi" : "Makaroni",
+                idx === 0 ? "Spaghetti" : "Makaroni",
                 50000 + idx * 5000
               )
             }
