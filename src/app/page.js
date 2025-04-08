@@ -211,7 +211,7 @@ export default function Home() {
          
 
           <h3 className="text-xl text-[#005023] font-bold text-center">
-            {idx === 0 ? "Lidi" : "Makaroni"}
+            {idx === 0 ? "Spaghetti" : "Makaroni"}
           </h3>
 
           <p className="text-lg text-[#005023] text-center mt-2 font-semibold">
