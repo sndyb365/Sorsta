@@ -180,7 +180,7 @@ export default function Home() {
             <div className="w-full md:w-1/2 text-center md:text-left">
               <h1 className="text-3xl md:text-5xl font-bold mb-4 text-yellow-400">Tentang Kami</h1>
               <p className="text-base md:text-lg text-yellow-400">
-                Sorsta adalah penyedia produk berbasis sorgum yang berkomitmen untuk memberikan alternatif makanan sehat dan berkualitas tinggi kepada masyarakat.
+              Sorsta adalah produk sorgum pasta inovatif terbuat dari sorgum, Produk ini hadir untuk memberikan alternatif makanan yang lebih sehat, bebas gluten, dan berkelanjutan. Sorsta bukan hanya sekadar produk makanan; ini juga merupakan langkah untuk memberdayakan petani lokal. Dengan berkolaborasi dengan komunitas petani dan komunitas UMKM pengolah sorgum di Desa Kalisoro, Sleman, Yogyakarta. di Yogyakarta, Sorsta membantu meningkatkan pendapatan mereka dan mempromosikan pertanian berkelanjutan.
               </p>
             </div>
           </section>
