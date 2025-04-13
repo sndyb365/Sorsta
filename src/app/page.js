@@ -215,7 +215,7 @@ export default function Home() {
           </h3>
 
           <p className="text-lg text-[#005023] text-center mt-2 font-semibold">
-            {formatCurrency(29000 + idx * 2900)}
+            {formatCurrency(29000)}
           </p>
 
           <button
@@ -224,7 +224,7 @@ export default function Home() {
               addToCart(
                 idx + 1,
                 idx === 0 ? "Spaghetti" : "Makaroni",
-                29000 + idx * 2900
+                29000
               )
             }
           >
